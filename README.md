@@ -2,13 +2,12 @@
 
 I am a **Statistics Postgraduate Student** with a strong interest in **Data Science, Machine Learning, and Statistical Computing**. My work focuses on combining statistical theory with computational techniques to solve real-world problems and extract meaningful insights from data.
 
-- 🔭 **Currently exploring:** Machine Learning, Statistical Inference, and Applied Data Analysis  
-- 📊 **Interested in:** Data Science, Predictive Modeling, Probability, and Statistical Computing  
-- 💻 **Working with:** Python, SQL, Scikit-learn, Pandas, and PyTorch  
+- 🔭 **Currently exploring:** Machine Learning, Statistical Inference, and Applied Data Analysis    
 - 🌱 **Currently learning:** Deep Learning, MLOps, and Advanced Machine Learning  
 - 🎓 **Education:** M.Sc. Statistics & B.Sc. Statistics (Hons.) from University of Delhi  
 - ⚡ **Fun fact:** I enjoy transforming statistical concepts into practical data science applications.
-
+- 🌍 **Website:** [samihansari02.com](https://samihansari02.netlify.app/)
+- 📫 **Reach me at:** samihansari02@gmail.com
 
 ## 🛠 Technical Skills
 
